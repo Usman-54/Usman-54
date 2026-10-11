@@ -1,12 +1,10 @@
 # Hi, I'm Usman Ali Khan 👋
 
-### Software Engineering Graduate | Full-Stack Web Developer
+### Backend Developer · Django, Laravel & Node js Developer
 
-I'm a Software Engineering graduate from the University of Malakand with an interest in building practical, user-friendly, and reliable web applications.
+I build web applications that combine responsive user interfaces, reliable backend functionality, and practical database-driven solutions — from frontend development and application logic to data management and complete web experiences.
 
-My work focuses on both frontend and backend development. I enjoy creating responsive interfaces, developing backend functionality, and working with databases to build complete web solutions. I mainly work with Python, Django, PHP, and Laravel, along with modern frontend technologies.
-
-I'm always looking to improve my skills, explore better ways to solve problems, and build applications that are useful beyond just writing code.
+My work focuses on building functional, user-friendly applications with **Python, Django, PHP, Laravel, JavaScript,Nodejs and MySQL**. I enjoy turning requirements into well-structured software, solving development challenges, and writing clean, maintainable code that makes applications easier to use and extend.
 
 ## 👨‍💻 About Me
 
