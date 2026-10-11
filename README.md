@@ -1,45 +1,113 @@
-# Hi, I'm Usman 👋
+# Hi, I'm Usman Ali Khan 👋
 
-### Developer | Problem Solver | Always Learning
+### Software Engineering Graduate | Full-Stack Web Developer
 
-Welcome to my GitHub! I'm Usman, and this is where I share my coding journey, explore new ideas, and work on projects that help me grow as a developer.
+I'm a Software Engineering graduate from the University of Malakand with an interest in building practical, user-friendly, and reliable web applications.
 
-I enjoy turning ideas into practical solutions, learning by building, and improving my skills with every project. I believe good development isn't just about writing code — it's about understanding problems, keeping things simple, and creating useful experiences.
+My work focuses on both frontend and backend development. I enjoy creating responsive interfaces, developing backend functionality, and working with databases to build complete web solutions. I mainly work with Python, Django, PHP, and Laravel, along with modern frontend technologies.
 
-### 👨‍💻 About Me
+I'm always looking to improve my skills, explore better ways to solve problems, and build applications that are useful beyond just writing code.
 
-- 💻 Interested in software development and building practical applications.
-- 🌱 Always learning, experimenting, and improving my technical skills.
-- 🚀 Enjoy working on projects that challenge me and help me grow.
-- 🤝 Open to connecting with other developers, sharing ideas, and collaborating.
-- 🎯 Focused on becoming a better developer through consistent practice and real-world projects.
+## 👨‍💻 About Me
 
-### 🛠️ Technologies & Tools
+- 🎓 Software Engineering graduate from the University of Malakand.
+- 💻 Full-stack web developer focused on web application development.
+- 🌱 Working with Django and Laravel to build backend-driven applications.
+- 🗄️ Interested in database design, application logic, and responsive user interfaces.
+- 🚀 Enjoy building practical projects that solve real-world problems.
+- 🤝 Open to connecting with developers and collaborating on meaningful projects.
 
-I use this section to showcase the technologies I work with and the tools I use in my development workflow.
+## 🛠️ Tech Stack & Skills
 
-*Add your actual programming languages, frameworks, databases, and development tools here.*
+### Frontend Development
 
-### 🚀 My Work
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript and Bootstrap" />
+</p>
 
-I believe projects are one of the best ways to learn, experiment, and turn ideas into something real.
+- HTML5 — semantic markup and page structure
+- CSS3 — styling and responsive layouts
+- JavaScript — frontend interactivity
+- Bootstrap — responsive UI development
 
-Explore my work and projects:
+### Backend Development
 
-- 🌐 **Portfolio:** [Visit my Portfolio](https://usman-54.github.io/portfolio/)
-- 💻 **GitHub Repositories:** [Explore My Code](https://github.com/Usman-54?tab=repositories)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel" alt="Python, Django, PHP and Laravel" />
+</p>
 
-### 📈 My Development Journey
+- Python
+- Django
+- PHP
+- Laravel
 
-I'm focused on learning, building, and improving one step at a time. Every project is an opportunity to understand something new, solve a problem, and write better code than I did before.
+### Database
 
-### 🤝 Let's Connect
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
 
-I'm always happy to connect with fellow developers, exchange ideas, and explore opportunities to learn and build together.
+- MySQL — relational database management
 
-- **GitHub:** [Usman-54](https://github.com/Usman-54)
-- **Portfolio:** [usman-54.github.io/portfolio](https://usman-54.github.io/portfolio/)
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+</p>
+
+- Git and GitHub
+- Visual Studio Code
+- Version control and project development workflows
+
+## 🚀 Featured Projects
+
+### 1. Children Vaccination System
+
+A Django-based web application designed to record and track children's vaccination information, helping support timely immunization and organized record management.
+
+**Technologies:** Python · Django · HTML · CSS · MySQL
+
+[Explore My GitHub Repositories](https://github.com/Usman-54?tab=repositories)
+
+### 2. Foundation Management System
+
+A web-based management application built to organize foundation records, donations, and volunteer information.
+
+**Technologies:** PHP · Laravel · MySQL · HTML · CSS · JavaScript
+
+[Explore My GitHub Repositories](https://github.com/Usman-54?tab=repositories)
+
+### 3. Portfolio Website
+
+My personal portfolio, created to introduce my background, highlight my technical skills, showcase projects, and provide a way to connect with me.
+
+**Technologies:** HTML · CSS · JavaScript
+
+[🌐 View Live Portfolio](https://usman-54.github.io/portfolio/) · [💻 View GitHub Repositories](https://github.com/Usman-54?tab=repositories)
+
+## 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Usman-54&show_icons=true&hide_border=true&theme=github_dark" alt="Usman's GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-54&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" />
+</p>
+
+## 🌐 Languages
+
+- English
+- Urdu
+
+## 🤝 Let's Connect
+
+I'm happy to connect with fellow developers, exchange ideas, and explore opportunities to learn and build together.
+
+- 🌐 **Portfolio:** [usman-54.github.io/portfolio](https://usman-54.github.io/portfolio/)
+- 💻 **GitHub:** [@Usman-54](https://github.com/Usman-54)
+- 📧 **Email:** usmnse@gmail.com
 
 ---
 
-*Thanks for stopping by! Feel free to explore my repositories and follow along as I continue building and learning. ⭐*
+*I believe every project is an opportunity to learn something new, solve a problem, and become a better developer. Thanks for visiting my profile! ⭐*
