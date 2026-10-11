@@ -1,21 +1,32 @@
 # Hi, I'm Usman Ali Khan 👋
 
-### Backend Developer · Django, Laravel & Node.js Developer
+### Backend Developer · Django, Django REST Framework & Node.js
 
-I build web applications that combine responsive user interfaces, reliable backend functionality, and practical database-driven solutions — from frontend development and application logic to data management and complete web experiences.
+I build backend systems and full-stack web applications — from REST APIs, authentication, and database design to business logic and frontend integration. My work focuses on turning application requirements into reliable, maintainable software with well-structured data and clear API design.
 
-My work focuses on building functional, user-friendly applications with **Python, Django, PHP, Laravel, JavaScript,Nodejs and MySQL**. I enjoy turning requirements into well-structured software, solving development challenges, and writing clean, maintainable code that makes applications easier to use and extend.
+I primarily work with **Python, Django, Django REST Framework, and MySQL**, alongside **Node.js, PHP, and Laravel**. At PixelCode Technologies, I contribute to backend systems and client web applications, with a focus on database management, backend functionality, and frontend integration.
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering graduate from the University of Malakand.
-- 💻 Full-stack web developer focused on web application development.
-- 🌱 Working with Django and Laravel to build backend-driven applications.
-- 🗄️ Interested in database design, application logic, and responsive user interfaces.
-- 🚀 Enjoy building practical projects that solve real-world problems.
-- 🤝 Open to connecting with developers and collaborating on meaningful projects.
+- 💼 **Backend Developer** at PixelCode Technologies.
+- 🎓 BS Software Engineering, University of Malakand (2020–2024).
+- ⚙️ Focused on backend development, REST APIs, authentication, and database-driven applications.
+- 🗄️ Experienced with relational database design, migrations, CRUD operations, and application logic.
+- 🌐 Comfortable integrating backend services with responsive frontend interfaces.
+- 🎯 Currently deepening my expertise in backend engineering and distributed systems.
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs" alt="Python, Django, PHP, Laravel and Node.js" />
+</p>
+
+- Python · Django · Django REST Framework
+- Node.js · PHP · Laravel
+- REST API development · Token-based authentication
+- Server-side business logic · CRUD operations
 
 ### Frontend Development
 
@@ -23,89 +34,131 @@ My work focuses on building functional, user-friendly applications with **Python
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript and Bootstrap" />
 </p>
 
-- HTML5 — semantic markup and page structure
-- CSS3 — styling and responsive layouts
-- JavaScript — frontend interactivity
-- Bootstrap — responsive UI development
+- HTML5 · CSS3 · JavaScript
+- Bootstrap 5 · Django Templates
+- Frontend and backend integration
 
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs" alt="Python, Django, PHP, Laravel and Node.js" />
-</p>
-- Python
-- Django
-- PHP
-- Laravel
-- Node.js
-
-### Database
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
-- MySQL — relational database management
+- MySQL
+- Relational database design
+- Database migrations and data integrity
 
-### Tools & Workflow
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
 </p>
 
 - Git and GitHub
 - Visual Studio Code
-- Version control and project development workflows
+- GitHub Pages
+- Environment and configuration management
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-### 1. Children Vaccination System
+### Backend Developer — PixelCode Technologies
 
-A Django-based web application designed to record and track children's vaccination information, helping support timely immunization and organized record management.
+Building and maintaining backend systems for client web applications.
 
-**Technologies:** Python · Django · HTML · CSS · MySQL
+- Design and maintain database schemas to support reliable data organization.
+- Contribute to backend functionality and frontend integration.
+- Participate in code reviews and follow maintainable development practices.
+- Manage database operations and help maintain data integrity.
 
-[Explore My GitHub Repositories](https://github.com/Usman-54?tab=repositories)
+### Backend Development Intern — PixelCode Technologies
 
-### 2. Foundation Management System
+Gained hands-on experience with professional web development workflows, backend fundamentals, frontend integration, and database management.
 
-A web-based management application built to organize foundation records, donations, and volunteer information.
+## 🚀 Projects
 
-**Technologies:** PHP · Laravel · MySQL · HTML · CSS · JavaScript
+A selection of backend systems and full-stack applications I've developed through academic, collaborative, and personal work.
 
-[Explore My GitHub Repositories](https://github.com/Usman-54?tab=repositories)
+### 1. Vehicle Rental Reservation System
+A database-driven backend application for managing vehicle availability, customer booking records, rental reservations, and related information.
 
-### 3. Portfolio Website
+**Stack:** PHP · MySQL
 
-My personal portfolio, created to introduce my background, highlight my technical skills, showcase projects, and provide a way to connect with me.
+### 2. Aspiring Builders & Marketing
+Backend development for a builder and marketing website, supporting server-side functionality and database operations.
 
-**Technologies:** HTML · CSS · JavaScript
+**Stack:** PHP · MySQL
 
-[🌐 View Live Portfolio](https://usman-54.github.io/portfolio/) · [💻 View GitHub Repositories](https://github.com/Usman-54?tab=repositories)
+🌐 [Visit Website](https://aspiringbuildersandmarketing.com/)
 
-## 📊 GitHub Statistics
+### 3. Dialer App for Call Centers
+A collaborative project focused on backend functionality for call center operations, using server-side JavaScript and database integration.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Usman-54&show_icons=true&hide_border=true&theme=github_dark" alt="Usman's GitHub statistics" />
-</p>
+**Stack:** Node.js · MySQL
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-54&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" />
-</p>
+### 4. Event Management System
+A backend application for managing event details, schedules, registrations, and associated records through server-side logic and database operations.
 
-## 🌐 Languages
+**Stack:** Python · Django · MySQL
 
-- English
-- Urdu
+### 5. Career Management System
+A recruitment-focused application designed to organize job postings, candidate information, and company hiring workflows.
+
+**Stack:** Node.js · MySQL
+
+### 6. Children Vaccination System — Final Year Project
+A full-stack application for managing children's vaccination records, personal information, and vaccine laboratory records in a centralized system.
+
+**Stack:** Python · Django · MySQL · JavaScript · Bootstrap
+
+### 7. Khairunas Foundation
+A charity management web application for organizing donation collection, distribution activities, and related organizational records.
+
+**Stack:** Python · Django · MySQL · JavaScript · Bootstrap
+
+### 8. SIS Institute — Safety Courses
+An institute management application for organizing safety course registrations, schedules, student records, and academic activities.
+
+**Stack:** Python · Django · MySQL · JavaScript · Bootstrap
+
+### 9. Hotel Order Management System
+A web application for managing hotel customer orders and related operations through backend processing, database management, and an interactive interface.
+
+**Stack:** PHP · MySQL · JavaScript · Bootstrap
+
+### 10. Personal Portfolio Website
+A responsive portfolio website showcasing my technical skills, projects, education, and professional background across desktop and mobile devices.
+
+**Stack:** HTML5 · CSS3 · Bootstrap 5 · JavaScript
+
+🌐 [View Live Portfolio](https://usman-54.github.io/portfolio/)
+
+**Explore more:** [All GitHub Repositories](https://github.com/Usman-54?tab=repositories)
+
+## 🎓 Education
+
+**BS Software Engineering**  
+University of Malakand · 2020–2024
+
+CGPA: **3.56 / 4.00**
+
+Relevant coursework includes Object-Oriented Programming, Data Structures and Algorithms, Database Management Systems, Software Engineering, Web Engineering, and Software Testing.
+
+## 📜 Certifications & Training
+
+- Web Development — NFTP
+- CCNP — NAVTTC
+- Internet of Things (IoT) Workshop
+- Programming for Everybody — Python fundamentals
+- Python Data Structures — programming and algorithms
 
 ## 🤝 Let's Connect
 
-I'm happy to connect with fellow developers, exchange ideas, and explore opportunities to learn and build together.
+I'm open to connecting with developers, collaborating on web projects, and discussing backend engineering and full-stack development.
 
 - 🌐 **Portfolio:** [usman-54.github.io/portfolio](https://usman-54.github.io/portfolio/)
 - 💻 **GitHub:** [@Usman-54](https://github.com/Usman-54)
-- 📧 **Email:** usmnse@gmail.com
+- 📧 **Email:** [usmnse@gmail.com](mailto:usmnse@gmail.com)
 
 ---
 
-*I believe every project is an opportunity to learn something new, solve a problem, and become a better developer. Thanks for visiting my profile! ⭐*
+*Building reliable backends, practical web applications, and maintainable software — one project at a time.*
