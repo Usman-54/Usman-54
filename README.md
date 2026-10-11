@@ -1,6 +1,6 @@
 # Hi, I'm Usman Ali Khan 👋
 
-### Backend Developer · Django, Django REST Framework & Node.js
+### Backend Developer · Django, Laravel & Node.js
 
 I build backend systems and full-stack web applications — from REST APIs, authentication, and database design to business logic and frontend integration. My work focuses on turning application requirements into reliable, maintainable software with well-structured data and clear API design.
 
@@ -19,14 +19,17 @@ I primarily work with **Python, Django, Django REST Framework, and MySQL**, alon
 
 ### Backend Development
 
+### Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs" alt="Python, Django, PHP, Laravel and Node.js" />
 </p>
 
-- Python · Django · Django REST Framework
-- Node.js · PHP · Laravel
-- REST API development · Token-based authentication
-- Server-side business logic · CRUD operations
+- **Python** · Django · Django REST Framework
+- **PHP** · Laravel
+- **Node.js**
+- **API Development** · REST APIs · Token-based Authentication
+- **Backend Engineering** · Server-side Business Logic · CRUD Operations
 
 ### Frontend Development
 
