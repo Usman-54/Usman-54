@@ -1,6 +1,6 @@
 # Hi, I'm Usman Ali Khan 👋
 
-### Backend Developer · Django, Laravel & Node js Developer
+### Backend Developer · Django, Laravel & Node.js Developer
 
 I build web applications that combine responsive user interfaces, reliable backend functionality, and practical database-driven solutions — from frontend development and application logic to data management and complete web experiences.
 
@@ -31,13 +31,13 @@ My work focuses on building functional, user-friendly applications with **Python
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel" alt="Python, Django, PHP and Laravel" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs" alt="Python, Django, PHP, Laravel and Node.js" />
 </p>
-
 - Python
 - Django
 - PHP
 - Laravel
+- Node.js
 
 ### Database
 
